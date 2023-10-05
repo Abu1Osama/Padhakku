@@ -34,8 +34,8 @@ To install and set up the project, follow these steps:
   npm run server
   
 ## API Documentation
-- API documentation is provided using Swagger UI. Access the Swagger documentation at https://padhakku-post-management.onrender.com/docs when the server is running:
-- Open your web browser and navigate to http://localhost:3000/api/docs (or the appropriate URL).
+- API documentation is provided using Swagger UI. Access the Swagger documentation at https://padhakku-post-management.onrender.com/docs when the server is running(Production Server):
+- Open your web browser and navigate to http://localhost:3000/api/docs (for the Development server).
 Here, you will find detailed information about the available API endpoints, request parameters, and responses.
 
 ## API Endpoints

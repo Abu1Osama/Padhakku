@@ -21,12 +21,17 @@ const swaggerDefinition = {
     contact: {
       name: "Padhakku",
       url: "https://jsonplaceholder.typicode.com",
+
     },
   },
   servers: [
     {
       url: "http://localhost:7788",
       description: "Development server",
+    },
+    {
+      url: "https://padhakku-post-management.onrender.com/docs",
+      description: "Production",
     },
   ],
 };

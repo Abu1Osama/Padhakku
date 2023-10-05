@@ -74,4 +74,4 @@ List and describe the API endpoints your Node.js and Express project provides, i
     - `404 Not Found`: No posts found for the user.
 
 ## Demo
-Demo url: https://drive.google.com/drive/folders/1ctFxat6Z2r500Tc895NKUZaKD-ar7n-P?usp=sharing
+Demo url: https://drive.google.com/file/d/1D8tkxqwwdMo6XbFo_RknME2sQiqKGKk_/view?usp=sharing

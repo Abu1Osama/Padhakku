@@ -26,13 +26,14 @@ const swaggerDefinition = {
   },
   servers: [
     {
+      url: "https://padhakku-post-management.onrender.com",
+      description: "Production server",
+    },
+    {
       url: "http://localhost:7788",
       description: "Development server",
     },
-    {
-      url: "https://padhakku-post-management.onrender.com/docs",
-      description: "Production",
-    },
+   
   ],
 };
 

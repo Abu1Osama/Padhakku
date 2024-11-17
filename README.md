@@ -9,7 +9,6 @@ Padhakku Post Management System provides you the post for multiple users
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
 - [API Endpoints](#API-Endpoints)
-- [Demo](#Demo)
 
 ## Getting Started
 ### Prerequisites
@@ -73,5 +72,4 @@ List and describe the API endpoints your Node.js and Express project provides, i
     - `200 OK`: All the posts from the user.
     - `404 Not Found`: No posts found for the user.
 
-## Demo
-Demo url: https://drive.google.com/file/d/1D8tkxqwwdMo6XbFo_RknME2sQiqKGKk_/view?usp=sharing
+
